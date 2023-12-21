@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/gideon/Desktop/Coding/0x00-hello_world/0x00-hello_world",
-      "program": "/home/gideon/Desktop/Coding/0x00-hello_world/0x00-hello_world/build/Debug/outDebug",
+      "cwd": "/home/gideon/Desktop/Coding/0x00-hello_world/0x02-functions_nested_loops",
+      "program": "/home/gideon/Desktop/Coding/0x00-hello_world/0x02-functions_nested_loops/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
