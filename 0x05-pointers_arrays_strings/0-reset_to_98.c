@@ -1,31 +1,11 @@
-#include <stdio.h>
-//#include "holberton.h"
-void reset_to_98(int *n);
-/**
- * main: prints an integer
- * @n: variable of type integer
- *
- * Return: Always 0
- */
-int main(void)
-{
-  int n, *m;
-  n = 402;
-  m = &n;
-  _putchar(n);
-  reset_to_98(m);
-  _putchar(n);
-  return (0);
-}
+#include "main.h"
 
 /**
- * reset_to_98: prints an integer
- * @*n: pointer variable of type integer
- *
- * Return: void
+ * reset_to_98 - sets value of pointer to 98
+ * @n: pointer to be set
  */
+
 void reset_to_98(int *n)
 {
-  *n = 98;
-    
+	*n = 98;
 }
